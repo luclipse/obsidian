@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a8807e510716b2f7",
+        "id": "03620eafdb1d68ab",
         "type": "tabs",
         "children": [
           {
-            "id": "bd4e371f726c45e7",
+            "id": "c42bb42f5a357a94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024/공부/SPRING/Spring batch.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/공부/SPRING/Spring batch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/공부/SPRING/Spring batch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024/공부/SPRING/Spring batch.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,18 +138,28 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "bd4e371f726c45e7",
+  "active": "c42bb42f5a357a94",
   "lastOpenFiles": [
+    "2024/공부/JS/GRIDSTACK.md",
     "2024/공부/잡다/CRON.md",
-    "2024/ReadMe.md",
-    "2024/공부/SPRING/Spring Boot 3.2 virtual thread.md",
-    "2024/공부/잡다",
-    "2024/공부/java21/scoped value.md",
-    "2024/공부/java21",
-    "2024/공부/SPRING/Spring batch.md",
-    "2024/공부/SPRING/Spring Retry.md",
-    "2024/공부/SPRING/RestClient.md",
+    "2024/공부/JS",
     "2024/공부/무제 파일.md",
+    "2024/공부/java/Virtual Threads.md",
+    "2024/공부/java/scoped value.md",
+    "2024/공부/java/Record Builder.md",
+    "2024/공부/three.js/react-three-fiber.md",
+    "2024/사이트/URL 데이트를 활용하는 사이트.md",
+    "2024/ReadMe.md",
+    "2024/사이트",
+    "2024/공부/SPRING/spring-vault.md",
+    "2024/공부/SPRING/Spring Retry.md",
+    "2024/공부/three.js",
+    "2024/공부/SPRING/Spring Boot 3.2 virtual thread.md",
+    "2024/공부/SPRING/Spring batch.md",
+    "2024/공부/SPRING/RestClient.md",
+    "2024/공부/SPRING/Quartz.md",
+    "2024/공부/잡다",
+    "2024/공부/java",
     "2024/공부/SPRING",
     "Welcome.md",
     "2024/공부",
